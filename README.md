@@ -8,7 +8,7 @@
 
 ```sh
 mkdir -p ~/.codex/skills/validate-overseas-tool-idea
-curl -fsSL https://raw.githubusercontent.com/glows/validate-overseas-tool-idea/main/SKILL.md -o ~/.codex/skills/validate-overseas-tool-idea/SKILL.md
+curl -fsSL https://raw.githubusercontent.com/glows/validate-overseas-tool-idea-skill/main/SKILL.md -o ~/.codex/skills/validate-overseas-tool-idea/SKILL.md
 ```
 
 重新打开 Codex 会话后，可给出一个关键词、竞品网址或站点类型，让助手按 Skill 调查。实时调查需要可用的网络搜索工具；没有实时数据时，Skill 会明确标为「未验证」。
